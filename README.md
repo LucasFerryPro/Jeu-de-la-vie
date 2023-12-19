@@ -10,7 +10,7 @@ Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.
    - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/automate-elementaire.ipynb)
 
 2. ### Jeu de la vie (Game of Life)
-   - Description : Implémentation et visualisation du "Jeu de la vie", un automate cellulaire bidimensionnel, en apportant différentes règles, 4 variations vont être implémenter : Day and Night, HighLife, Immigration, QuadLife .
+   - Description : Implémentation et visualisation du "Jeu de la vie", un automate cellulaire bidimensionnel, en apportant différentes règles, 4 variations vont être implémenter : Day and Night, HighLife, Immigration, QuadLife.
    - Langages : Python, Jupyter Notebook
    - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/variations-jeu-de-la-vie.ipynb)
 
