@@ -4,25 +4,27 @@ Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.
 
 ## Projets disponibles
 
-1. ### Automate cellulaire élémentaire
+### Jeu de la vie (https://cours-info.iut-bm.univ-fcomte.fr/pmwiki/pmwiki.php/MC/ProjetsMathematiques)
+
+1. #### Automate cellulaire élémentaire
    - Description : Implémentation et visualisation d'un Automate cellulaire élémentaire.
    - Langages : Python, Jupyter Notebook
-   - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/automate-elementaire.ipynb)
+   - Fichier associé : [Automate-elementaire.ipynb](Le-jeu-de-la-vie/automate-elementaire.ipynb)
 
-2. ### Jeu de la vie (Game of Life)
+2. #### Jeu de la vie (Game of Life)
    - Description : Implémentation et visualisation du "Jeu de la vie", un automate cellulaire bidimensionnel, en apportant différentes règles, 4 variations vont être implémenter : Day and Night, HighLife, Immigration, QuadLife.
    - Langages : Python, Jupyter Notebook
-   - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/variations-jeu-de-la-vie.ipynb)
+   - Fichier associé : [Variations-jeu-de-la-vie.ipynb](Le-jeu-de-la-vie/variations-jeu-de-la-vie.ipynb)
 
-3. ### Variation du jeu de la vie (Game of Life)
+3. #### Variation du jeu de la vie (Game of Life)
    - Description : Implémentation et visualisation du "Jeu de la vie", un automate cellulaire bidimensionnel
    - Langages : Python, Jupyter Notebook
    - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/jeu-de-la-vie.ipynb)
 
-4. ### Amélioration du trafic routier
+4. #### Amélioration du trafic routier
    - Description : Implémentation et visualisation du problème du traffic routier basé sur un automatre cellulaire de dimension 1
    - Langages : Python, Jupyter Notebook
-   - Fichier associé : [Jeu_de_la_vie.ipynb](Le-jeu-de-la-vie/traffic-routier.ipynb)
+   - Fichier associé : [Traffic-routier.ipynb](Le-jeu-de-la-vie/traffic-routier.ipynb)
 
 ## Comment utiliser les notebooks
 
