@@ -1,4 +1,4 @@
-# Projet Mathématique et Informatique en IPython Notebooks
+# Projet Mathématique et Informatique en Python Notebooks
 
 Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.ipynb`), explorant divers concepts mathématiques et informatiques. Le projet principal, actuellement inclus, couvre à la fois le "Jeu de la vie" (Game of Life) et le problème d'amélioration du trafic routier basé sur un automate cellulaire.
 
