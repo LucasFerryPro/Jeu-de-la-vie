@@ -1,6 +1,6 @@
 # Projet Mathématique et Informatique en Python Notebooks
 
-Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.ipynb`), explorant divers concepts mathématiques et informatiques. Le projet principal, actuellement inclus, couvre à la fois le "Jeu de la vie" (Game of Life) et le problème d'amélioration du trafic routier basé sur un automate cellulaire.
+Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.ipynb`), explorant divers concepts mathématiques et informatiques. Le projet principal, actuellement inclus, couvre à la fois le "Jeu de la vie" (Game of Life) et le problème d'amélioration du trafic routier basé sur un automate cellulaire. Le projet secondaire traite plusieurs algorithmes du problème du sac à dos avec des méthodes différentes.
 
 ## Projets disponibles
 
@@ -29,3 +29,8 @@ Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.
 ## Comment utiliser les notebooks
 
 Chaque projet est contenu dans son propre dossier avec des notebooks Jupyter associés. Pour exécuter un notebook, assurez-vous d'avoir [Jupyter](https://jupyter.org/) installé et suivez les instructions du notebook spécifique.
+
+### Problème du sac à dos
+- Description : Implémentation de plusieurs algorithmes différents du problème du sac à dos. 
+- Languages: Python, Jupyter  
+- Fichier associé : [sac-a-dos.ipynb](Sac-à-dos/sac-a-dos.ipynb)
