@@ -26,11 +26,11 @@ Ce référentiel regroupe plusieurs projets basés sur des notebooks Jupyter (`.
    - Langages : Python, Jupyter Notebook
    - Fichier associé : [Traffic-routier.ipynb](Le-jeu-de-la-vie/traffic-routier.ipynb)
 
-## Comment utiliser les notebooks
-
-Chaque projet est contenu dans son propre dossier avec des notebooks Jupyter associés. Pour exécuter un notebook, assurez-vous d'avoir [Jupyter](https://jupyter.org/) installé et suivez les instructions du notebook spécifique.
-
 ### Problème du sac à dos
 - Description : Implémentation de plusieurs algorithmes différents du problème du sac à dos. 
 - Languages: Python, Jupyter  
 - Fichier associé : [sac-a-dos.ipynb](Sac-à-dos/sac-a-dos.ipynb)
+
+## Comment utiliser les notebooks
+
+Chaque projet est contenu dans son propre dossier avec des notebooks Jupyter associés. Pour exécuter un notebook, assurez-vous d'avoir [Jupyter](https://jupyter.org/) installé et suivez les instructions du notebook spécifique.
